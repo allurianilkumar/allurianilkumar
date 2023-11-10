@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+
 
 [![Anil's github stats](https://github-readme-stats.vercel.app/api?username=allurianilkumar)](https://github.com/allurianilkumar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allurianilkumar&theme=buefy&&hide=html,css,scss)](https://github.com/allurianilkumar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allurianilkumar&theme=buefy)](https://github.com/allurianilkumar)
 
 
