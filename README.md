@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allurianilkumar&theme=buefy)](https://github.com/allurianilkumar)
 
+## Skills :sparkles:
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" />
 
+---
+<sub><a target="_blank" href="https://icons8.com/icon/108812/linkedin">Social</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
